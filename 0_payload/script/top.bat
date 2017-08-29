@@ -1,1 +1,0 @@
-PowerShell.exe -ExecutionPolicy Bypass -File get_cpu_usage.ps1

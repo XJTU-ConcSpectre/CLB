@@ -1,1 +1,0 @@
-@gcc -s BullMoose.c -o BullMoose.exe -lshell32
