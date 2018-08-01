@@ -31,7 +31,7 @@ for parent, dirnames, filenames in os.walk(rootdir):
             shutil.rmtree(os.path.join(parent, dirname))
         if "programme" == dirname:
             print(os.path.join(parent, dirname))
-            if os.path.exists(os.path.join(parent, dirname+".zip"))
+            if os.path.exists(os.path.join(parent, dirname+".zip")):
                 os.remove(os.path.join(parent, dirname+".zip"))
             make_zip(os.path.join(parent, dirname),os.path.join(parent, dirname+".zip"))
             
