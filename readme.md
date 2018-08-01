@@ -1,8 +1,9 @@
 # CLB
 
-1. bullmoose.7z
+1. 0-Example of BullMoose
 
-    It is the source code of the malicious code we use.
+    It is the example source code of the malicious code bullmoose.
+    `bullmoose-C1` and `bullmoose-C5` are two kinds of activation sequence.
 
 2. source code.7z
 
