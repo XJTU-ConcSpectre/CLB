@@ -10,6 +10,7 @@ HKEY Key32;
 ```
 
 The `*` in `malicious_*` is the order injecting in the host code.
+
 The `*` in `if ((* - order) == 1)` is the order that malicious code should run.
 
 ```c
