@@ -1,14 +1,23 @@
 # CLB
 
-1. 0-Example of BullMoose
++ 0-Example of BullMoose
 
     It is the example source code of the malicious code bullmoose.
-    `bullmoose-C1` and `bullmoose-C5` are two kinds of activation sequence.
 
-2. source code.7z
+    The `bullmoose-C1` and the `bullmoose-C5` are two kinds of activation sequence.
 
-    It is the benchmarks with CLB.
+    The `executable.7z` is file we built.
 
-3. result.7z
++ 1-malicious code
 
-    It includes the result.
+    It contains four kinds of malicious codes and their different forms.
+
++ 2-host+malicious code
+
+    It is source code of different host codes and different malicious codes with different activation sequence.
+
+    Every `programme.zip` contains the file we built.
+
++ 3-result
+
+    It is the results of different analysis systems.
