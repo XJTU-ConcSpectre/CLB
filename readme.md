@@ -12,7 +12,7 @@
 
     It contains four kinds of malicious codes and their different forms.
 
-+ 2-host+malicious code
++ 2-ConcSpectre code
 
     It is source code of different host codes and different malicious codes with different activation sequence.
 
